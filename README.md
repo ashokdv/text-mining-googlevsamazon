@@ -1,1 +1,1 @@
-# text-mining-googlsvsamazon
+# text-mining-googlevsamazon
